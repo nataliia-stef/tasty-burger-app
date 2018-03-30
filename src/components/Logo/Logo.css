@@ -1,9 +1,10 @@
 .Logo {
     background-color: #fff;
-    padding: 8px;
-    height: 80%;
+    padding: 10px;
+    height: 160%;
+    transform: rotate(-8deg);
     box-sizing: border-box;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .Logo img {
