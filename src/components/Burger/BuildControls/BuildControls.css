@@ -7,8 +7,14 @@
     flex-flow: column;
     align-items: center;
     box-shadow: 0 2px 1px #ccc;
-    margin: -200px auto;
+    margin: -150px auto;
     padding: 10px 0;
+}
+
+@media (max-width: 600px) {
+    .BuildControls {
+        margin: 50px auto 0;
+    }
 }
 
 
