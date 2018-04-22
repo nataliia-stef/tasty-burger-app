@@ -19,14 +19,16 @@ cd tasty-burger-react-app
 
 ### Setup
 
-To install all dependencies run
+ To install all dependencies run
+ 
 ``` shell
 npm install
 ```
 
-To install and start live-server
+* To install and start live-server
+ 
 ``` shell
 npm install -g live-server
 live-server
 ```
-Open localhost:8080 in a browser
+ Open localhost:8080 in a browser
